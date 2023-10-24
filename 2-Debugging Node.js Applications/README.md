@@ -10,8 +10,7 @@ Welcome to a comprehensive guide on debugging techniques and error handling best
 - [Performance Debugging](#performance-debugging)
 - [Debugging Security Issues](#debugging-security-issues)
 - [Handling Errors and Logs](#handling-errors-and-logs)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Debugging Techniques and Tools
 
